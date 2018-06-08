@@ -1,0 +1,158 @@
+#wrapper
+{
+  	 width: 80%;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+
+body {
+	 background-color: #F5F5F5; 
+	 color: #3F2860 ;
+	 font-family: "Verdana","Arial", "sans-serif";
+	}
+
+h1
+{
+	background-color: #9BC1C2;
+	background-image: url('lilyheader.jpg');
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: 250px;
+	text-align: left;
+    padding-left: 30px;
+	line-height: 200%;
+}
+
+a
+{
+   text-decoration: none;
+}
+
+footer {
+	text-align: center;
+	background-color: #9BC1C2;
+	text-align: center;
+	font-style: italic;
+	font-size: small;
+	padding: 5px;
+}
+
+#div_main
+{
+	width: 100%;
+
+}
+
+#content {
+	overflow: auto;
+}
+nav
+{
+	text-align: center;
+    font-weight: bold;
+    color: #3F2860 ;
+}
+
+#div1
+{
+  float: left;
+  width: 15%;
+  text-align: center;
+  font-weight: bold;
+}
+
+#div2
+{
+  float: left;
+  width: 20%;
+}
+#image1
+{
+	width: 90%;
+	margin: 5px;
+}
+#image2
+{
+  width: 70%;
+  margin: 5px;	
+}
+#div3
+{
+  float: left;
+  width: 50%;
+  margin: 10px;
+  margin-left: 30px;
+}
+#list
+{
+  list-style-type: none;
+  margin: 10px;
+  padding: 0;
+}
+#list li
+{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 20px;
+	border-left: 2px solid lightgray;
+	border-top: 2px solid lightgray;
+	border-right: 2px solid gray;
+	border-bottom: 2px solid gray;
+}
+#list_1
+{
+	list-style-type: none;
+	text-align: left;
+	padding-left: 0px;
+}
+
+#div5
+{
+	float: left;
+	width: 85%;
+}
+#image3
+{
+  width: 700px;
+}
+#div7_bottom
+{
+	width: 100%;
+}
+
+#div3 article ul {
+	padding-left: 2px;
+}
+
+
+#div4 {
+	float: left;
+	width: 80%;
+}
+
+
+.form-group{
+	overflow: auto;
+	margin-bottom: 10px;
+}
+
+
+.form-label{
+	float: left;
+    width: 200px;
+	text-align: right;
+	font-weight: bold;
+}
+
+.form-input {
+	float: left;
+	padding-bottom: 15px;
+    width: 200px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.error{
+	color: red;
+}
